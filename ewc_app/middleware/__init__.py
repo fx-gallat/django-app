@@ -1,0 +1,1 @@
+from ewc_app.middleware.corsMiddleware import CorsMiddleware

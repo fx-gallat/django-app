@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63cbfb5f-71bd-4bc4-8cee-8a181174b712" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Online" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ewc_app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ewc_app/views/question_views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ewc_app/middleware/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ewc_app/middleware/corsMiddleware.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ewc_app/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ewc_app/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ewc_app/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forceIntent</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ewc_app/admin.py" />
+        <option value="$PROJECT_DIR$/django_app/urls.py" />
+        <option value="$PROJECT_DIR$/ewc_app/views.py" />
+        <option value="$PROJECT_DIR$/ewc_app/service/views/views.py" />
+        <option value="$PROJECT_DIR$/ewc_app/service/views/__init__.py" />
+        <option value="$PROJECT_DIR$/ewc_app/models/keras_model.py" />
+        <option value="$PROJECT_DIR$/ewc_app/service/keras_service/models/loss_model.py" />
+        <option value="$PROJECT_DIR$/ewc_app/utils/utils.py" />
+        <option value="$PROJECT_DIR$/ewc_app/tests/keras_tests.py" />
+        <option value="$PROJECT_DIR$/ewc_app/service/keras_service/models/keras_mnist_model.py" />
+        <option value="$PROJECT_DIR$/django_app/__init__.py" />
+        <option value="$PROJECT_DIR$/ewc_app/utils/data_loader.py" />
+        <option value="$PROJECT_DIR$/ewc_app/utils/functions.py" />
+        <option value="$PROJECT_DIR$/ewc_app/__init__.py" />
+        <option value="$PROJECT_DIR$/ewc_app/const/constants.py" />
+        <option value="$PROJECT_DIR$/ewc_app/utils/vocab.py" />
+        <option value="$PROJECT_DIR$/ewc_app/tests/question_tests.py" />
+        <option value="$PROJECT_DIR$/ewc_app/service/keras_service/models/keras_model.py" />
+        <option value="$PROJECT_DIR$/ewc_app/app_tests/keras_tests.py" />
+        <option value="$PROJECT_DIR$/ewc_app/service/keras_service/models/keras_chatbot_model.py" />
+        <option value="$PROJECT_DIR$/ewc_app/service/question_service/question_service.py" />
+        <option value="$PROJECT_DIR$/ewc_app/models.py" />
+        <option value="$PROJECT_DIR$/ewc_app/views/question_django_views.py" />
+        <option value="$PROJECT_DIR$/ewc_app/views/question_angular_views.py" />
+        <option value="$PROJECT_DIR$/ewc_app/views/__init__.py" />
+        <option value="$PROJECT_DIR$/ewc_app/urls.py" />
+        <option value="$PROJECT_DIR$/ewc_app/serializers.py" />
+        <option value="$PROJECT_DIR$/ewc_app/tests.py" />
+        <option value="$PROJECT_DIR$/ewc_app/views/question_views.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" />
+        <option value="$PROJECT_DIR$/ewc_app/cors.py" />
+        <option value="$PROJECT_DIR$/ewc_app/middleware/cors.py" />
+        <option value="$PROJECT_DIR$/ewc_app/middleware/corsMiddleware.py" />
+        <option value="$PROJECT_DIR$/ewc_app/middleware/__init__.py" />
+        <option value="$PROJECT_DIR$/django_app/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/django_app.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+        <option value="$PROJECT_DIR$/.idea/other.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="19" />
+    <option name="width" value="1920" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angular-app" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ewc_app/middleware" />
+      <recent name="$PROJECT_DIR$/django_app/utils" />
+      <recent name="$PROJECT_DIR$/ewc_app/data/data_sentence_intent" />
+      <recent name="$PROJECT_DIR$/ewc_app/service/keras_service" />
+      <recent name="$PROJECT_DIR$/ewc_app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django tests.Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force">
+    <configuration name="Test: ewc_app.tests.BaseViewTest" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="django_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="ewc_app.tests.BaseViewTest" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: ewc_app.tests.GetAllQuestionsTest.test_get_all_questions" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="django_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="ewc_app.tests.GetAllQuestionsTest.test_get_all_questions" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="django_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="ewc_app.tests.PutQuestionsTest.test_put_questions" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="django_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="ewc_app.tests.PutQuestionsTest.test_put_questions_force" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="django_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="django_app" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for ewc_app.app_tests.question_tests.TestInit.test_qs_process" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="django_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ewc_app/app_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ewc_app.app_tests.question_tests.TestInit.test_qs_process&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force" />
+        <item itemvalue="Django tests.Test: ewc_app.tests.PutQuestionsTest.test_put_questions" />
+        <item itemvalue="Django tests.Test: ewc_app.tests.GetAllQuestionsTest.test_get_all_questions" />
+        <item itemvalue="Django tests.Test: ewc_app.tests.BaseViewTest" />
+        <item itemvalue="Python tests.Unittests for ewc_app.app_tests.question_tests.TestInit.test_qs_process" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63cbfb5f-71bd-4bc4-8cee-8a181174b712" name="Default Changelist" comment="" />
+      <created>1560959036956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560959036956</updated>
+      <workItem from="1560959070868" duration="2048000" />
+      <workItem from="1560961378535" duration="2836000" />
+      <workItem from="1561027988575" duration="54000" />
+      <workItem from="1561625751707" duration="9282000" />
+      <workItem from="1561707898977" duration="17490000" />
+      <workItem from="1561966837596" duration="697000" />
+      <workItem from="1561967555975" duration="616000" />
+      <workItem from="1561969567188" duration="1275000" />
+      <workItem from="1562008285496" duration="7005000" />
+      <workItem from="1562053873597" duration="19591000" />
+      <workItem from="1562139433731" duration="607000" />
+      <workItem from="1562147268504" duration="2109000" />
+      <workItem from="1562155869315" duration="1629000" />
+      <workItem from="1562158432339" duration="489000" />
+      <workItem from="1562159144562" duration="1093000" />
+      <workItem from="1562160265665" duration="3375000" />
+      <workItem from="1562163872388" duration="617000" />
+      <workItem from="1562164629633" duration="2112000" />
+      <workItem from="1562227380203" duration="4370000" />
+      <workItem from="1562233457783" duration="4706000" />
+      <workItem from="1562311660391" duration="1197000" />
+      <workItem from="1562572809720" duration="685000" />
+      <workItem from="1562659911568" duration="3245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions - 2019.07.03 at 14h 01m 09s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions - 2019.07.03 at 14h 21m 06s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_GetAllQuestionsTest_test_get_all_questions - 2019.07.03 at 15h 54m 40s.xml">
+      <configuration name="Test: ewc_app.tests.GetAllQuestionsTest.test_get_all_questions" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions - 2019.07.03 at 15h 57m 13s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions - 2019.07.03 at 16h 03m 01s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions_force - 2019.07.03 at 16h 05m 38s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions_force - 2019.07.03 at 16h 10m 10s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions_force - 2019.07.03 at 16h 12m 06s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions_force - 2019.07.03 at 16h 12m 47s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ewc_app_tests_PutQuestionsTest_test_put_questions_force - 2019.07.03 at 16h 15m 07s.xml">
+      <configuration name="Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87128000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="19" width="1920" height="1082" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20384204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28509718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.7957941" weight="0.32829374" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32937366" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.4991699" weight="0.32937366" />
+      <window_info anchor="bottom" id="manage.py@django_app" order="10" sideWeight="0.4969563" visible="true" weight="0.35152152" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002767" side_tool="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4997233" weight="0.31857452" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4997233" weight="0.37473002" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32982844" />
+      <window_info anchor="right" id="Database" order="4" weight="0.26674044" />
+      <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="5" side_tool="true" weight="0.32982844" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16657443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.7957941" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.4991699" weight="0.32937366" />
+      <window_info anchor="bottom" id="manage.py@django_app" order="10" sideWeight="0.4969563" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002767" side_tool="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4997233" weight="0.32937366" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4997233" weight="0.15550756" />
+      <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="0" side_tool="true" weight="0.32982844" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32982844" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32982844" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ewc_app/views/question_views.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DjangoTestsConfigurationType">
+        <watch expression="serialized" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_keras_tests_TestInit_test_simple_model_fit_permutated.coverage" NAME="Unittests for keras_tests.TestInit.test_simple_model_fit_permutated Coverage Results" MODIFIED="1561729057620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_question_tests_TestInit_test_qs_process.coverage" NAME="Unittests for question_tests.TestInit.test_qs_process Coverage Results" MODIFIED="1562073945878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Test__ewc_app_tests_PutQuestionsTest_test_put_questions_force.coverage" NAME="Test: ewc_app.tests.PutQuestionsTest.test_put_questions_force Coverage Results" MODIFIED="1562572858697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_keras_tests_TestInit_test_data_generation.coverage" NAME="Unittests for keras_tests.TestInit.test_data_generation Coverage Results" MODIFIED="1561727427981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_in_keras_tests_py.coverage" NAME="Unittests in keras_tests.py Coverage Results" MODIFIED="1561728651371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_keras_tests_TestInit_test_simple_model_fit_permutated_ewc_loss.coverage" NAME="Unittests for keras_tests.TestInit.test_simple_model_fit_permutated_ewc_loss Coverage Results" MODIFIED="1561730701577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Test__ewc_app_tests_PutQuestionsTest_test_put_questions.coverage" NAME="Test: ewc_app.tests.PutQuestionsTest.test_put_questions Coverage Results" MODIFIED="1562162568507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/django_app$Test__ewc_app_tests_GetAllQuestionsTest.coverage" NAME="Test: ewc_app.tests.GetAllQuestionsTest Coverage Results" MODIFIED="1562013622186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_keras_tests_TestInit.coverage" NAME="Unittests for keras_tests.TestInit Coverage Results" MODIFIED="1562013526514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_question_tests_TestInit.coverage" NAME="Unittests for question_tests.TestInit Coverage Results" MODIFIED="1562058722897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Test__ewc_app_tests_GetAllQuestionsTest_test_get_all_questions.coverage" NAME="Test: ewc_app.tests.GetAllQuestionsTest.test_get_all_questions Coverage Results" MODIFIED="1562162065844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/django_app$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1562013558595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/django_app$Test__ewc_app_tests_BaseViewTest.coverage" NAME="Test: ewc_app.tests.BaseViewTest Coverage Results" MODIFIED="1562076078274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_keras_tests_TestModel.coverage" NAME="Unittests for keras_tests.TestModel Coverage Results" MODIFIED="1562013501293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_question_tests_TestInit_test_model_creation.coverage" NAME="Unittests for question_tests.TestInit.test_model_creation Coverage Results" MODIFIED="1562015561324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Unittests_for_keras_tests_TestInit_test_simple_model_fit.coverage" NAME="Unittests for keras_tests.TestInit.test_simple_model_fit Coverage Results" MODIFIED="1561728293811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ewc_app/tests" />
+    <SUITE FILE_PATH="coverage/django_app$Test__ewc_app.coverage" NAME="Test: ewc_app Coverage Results" MODIFIED="1561645781397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>serialized.data[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>serialized.data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/django_app/utils/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/utils/data_loader.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/249573927/unittest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/249573927/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/re.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/utils/vocab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-724">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/const/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="986" column="6" selection-start-line="986" selection-start-column="6" selection-end-line="986" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/app_tests/question_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="494" selection-start-line="494" selection-end-line="494" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/views/decorators/csrf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/utils/deprecation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/test/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="421" selection-start-line="421" selection-end-line="421" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/rest_framework/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/249573927/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="652" selection-start-line="652" selection-end-line="652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/test/testcases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/249573927/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/rest_framework/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/service/keras_service/models/keras_chatbot_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#1#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/service/keras_service/models/keras_mnist_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="36" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/service/keras_service/models/loss_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/service/keras_service/models/keras_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/app_tests/keras_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="89" column="77" selection-start-line="89" selection-start-column="77" selection-end-line="89" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/812418459/-337502517/django/db/backends/sqlite3/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="382" selection-start-line="382" selection-end-line="382" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/migrations/0002_auto_20190627_1311.py" />
+    <entry file="file://$PROJECT_DIR$/ewc_app/migrations/0003_remove_question_created_on.py" />
+    <entry file="file://$PROJECT_DIR$/ewc_app/migrations/0004_question_force_intent.py" />
+    <entry file="file://$PROJECT_DIR$/ewc_app/migrations/0005_remove_question_force_intent.py" />
+    <entry file="file://$PROJECT_DIR$/ewc_app/migrations/0006_question_forceintent.py" />
+    <entry file="file://$PROJECT_DIR$/ewc_app/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/views/question_django_views.py" />
+    <entry file="file://$PROJECT_DIR$/ewc_app/service/question_service/question_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/views/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/middleware/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/middleware/corsMiddleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_app/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="24" column="44" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewc_app/views/question_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+tensorflow==1.13.1
+keras
+matplotlib
+pandas 
+gensim
+sklearn
+tqdm
+Django==2.2.2
+psycopg2-binary
+djangorestframework
+whitenoise
+gunicorn
+markdown
+django-filter
+django-cors-headers
