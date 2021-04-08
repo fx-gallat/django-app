@@ -5,7 +5,7 @@ pandas
 gensim
 sklearn
 tqdm
-Django==2.2.2
+Django==2.2.20
 psycopg2-binary
 djangorestframework
 whitenoise
